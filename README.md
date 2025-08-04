@@ -22,6 +22,7 @@ Based on the 6-slot inventory layout:
 2. Run as Administrator (required for global hotkeys)
 3. The program runs in background - check console for "Enabled/Disabled" status
 4. Press END key to toggle on/off
+
 You can close the command prompt window whenever you're done using the tool.
 
 ### Option 2: Compile from Source
